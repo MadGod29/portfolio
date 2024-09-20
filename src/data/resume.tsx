@@ -67,7 +67,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "mailto:mangeshgosavi129@gmail.com",
         icon: Icons.email,
         navbar: true,
       },
@@ -128,7 +128,6 @@ export const DATA = {
         "Developed a dataset generator using Conditional-Wasserstein GAN-GP with Zero Shot Learning. Incorporating Diffusion models for industry applications.",
       technologies: ["CWGAN-GP", "ZSL", "DDPM"],
       links: [],
-      image: "",
     },
     {
       title: "Chess.com clone",
@@ -138,7 +137,6 @@ export const DATA = {
       "Created a chess.com clone from scratch",
       technologies: ["ReactJS", "DRF", "Websockets"],
       links: [],
-      image: "",
     },
     {
       title: "Facial Recognition",
@@ -148,7 +146,6 @@ export const DATA = {
       "Created a facial recognition model for identifying famous personalities",
       technologies: ["Python", "Tensorflow", "Scikit-learn",""],
       links: [],
-      image: "",
     },
     {
       title: "Virtual TryOn",
@@ -158,7 +155,6 @@ export const DATA = {
       "Created a website for trying on clothes virtually. Used Pix2PixHD to replace the current clothes with the image provided",
       technologies: ["Opencv", "Numpy", "Tensorflow"],
       links: [],
-      image: "",
     },
     {
       title: "Stocks Predictor",
@@ -168,7 +164,6 @@ export const DATA = {
       "Created a multi variable regression model for predicting stocks",
       technologies: ["Python", "ScikitLearn", "Matplotlib"],
       links: [],
-      image: "",
     },
     {
       title: "Real Time Chat",
@@ -178,7 +173,6 @@ export const DATA = {
         "Developed a chat system that allows communication using just a username, with group conversations and no need for mobile numbers or email IDs.",
       technologies: ["ReactJS", "Node.js", "Websockets","API"],
       links: [],
-      image: "",
     },
     {
       title: "Jarvis",
@@ -188,7 +182,6 @@ export const DATA = {
         "Created a scirpt which on running would act as a personal assisstant able to send and read emails, recieve and make phone calls, do basic tasks like adjusting the brightness,keyboard backlight and more all through voice commands",
       technologies: ["Python", "API"],
       links: [],
-      image: "",
     },
   ],
   hackathons : [
