@@ -129,6 +129,7 @@ export const DATA = {
       technologies: ["CWGAN-GP", "ZSL", "DDPM"],
       links: [],
       image: "",
+      video: "",
     },
     {
       title: "Chess.com clone",
@@ -139,6 +140,7 @@ export const DATA = {
       technologies: ["ReactJS", "DRF", "Websockets"],
       links: [],
       image: "",
+      video: "",
     },
     {
       title: "Facial Recognition",
@@ -149,6 +151,7 @@ export const DATA = {
       technologies: ["Python", "Tensorflow", "Scikit-learn",""],
       links: [],
       image: "",
+      video: "",
     },
     {
       title: "Virtual TryOn",
@@ -159,6 +162,7 @@ export const DATA = {
       technologies: ["Opencv", "Numpy", "Tensorflow"],
       links: [],
       image: "",
+      video: "",
     },
     {
       title: "Stocks Predictor",
@@ -169,6 +173,7 @@ export const DATA = {
       technologies: ["Python", "ScikitLearn", "Matplotlib"],
       links: [],
       image: "",
+      video: "",
     },
     {
       title: "Real Time Chat",
@@ -179,6 +184,7 @@ export const DATA = {
       technologies: ["ReactJS", "Node.js", "Websockets","API"],
       links: [],
       image: "",
+      video: "",
     },
     {
       title: "Jarvis",
@@ -189,6 +195,7 @@ export const DATA = {
       technologies: ["Python", "API"],
       links: [],
       image: "",
+      video: "",
     },
   ],
   hackathons : [
